@@ -1,0 +1,79 @@
+
+
+.corpo {
+    background-color: rgb(255, 242, 249);
+}
+
+.titulo {
+    color: rgb(141, 69, 125);
+    text-align: center;
+}
+
+.miniBio {
+    color: rgb(141, 69, 125);
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+span {
+    color: rgb(75, 3, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.lista li {
+    color: rgb(141, 69, 125);
+    margin: 7px;
+}
+
+.lor {
+    border-radius: 25px;
+    width: 130px;
+    height: 200px;
+    margin-left: 50px;
+}
+
+.tabela td {
+    color: rgb(141, 69, 125);
+    border: 1px solid palevioletred;
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+}
+
+.lugar:hover {
+    background-color: rgb(252, 214, 219);
+}
+
+.fotos {
+    width: 270px;
+    height: 200px;
+}
+
+.link {
+    color: rgb(141, 69, 125);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link:hover {
+    color: rgb(255, 20, 243);
+}
+
+.botao {
+    color: aliceblue;
+    background-color: palevioletred;
+    border-radius: 5px;
+    border-color:rgb(235, 53, 114) ;
+    
+}
+
+.botao:hover {
+    color: rgb(73, 3, 70);
+    background-color: rgb(255, 17, 204);
+}
+
+.msg {
+    color: rgb(58, 2, 41);
+    font-size: x-large;
+    text-align: center;
+}
